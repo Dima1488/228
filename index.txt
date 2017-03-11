@@ -4,7 +4,7 @@
   </head>
   <body bgcolor=black>
 
-    <table border="0" cellpadding="10">
+    <table border="5" cellpadding="10">
       <tr>
         <td>
           <img src="images/springsource.png">
